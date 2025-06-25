@@ -1,7 +1,4 @@
-📂 Why File Handling is Important:
-To store user data permanently (like scores, settings).
-
-To read/write data from/to external files (logs, databases, etc.).
-
-To work with files for automation, like reading CSV files in data science.
-
+File in write mode ...
+Hi! I am Penguin. I am 1 yr. old
+File in append mode ...
+Hi! I am Penguin. I am 1 yr. old
