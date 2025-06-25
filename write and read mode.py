@@ -1,4 +1,3 @@
-
 file_read = open("file.txt", "r")
 print("File in Read Mode :-")
 print(file_read.read())
