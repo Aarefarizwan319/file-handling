@@ -1,0 +1,1 @@
+ To split the file into words, we need to use the split() function.
